@@ -94,6 +94,5 @@
 ---
 
 ## 📫 Contact
-
-- ✉️ Email : [ajoute ton email ici]
-- 🔗 LinkedIn : [ajoute ton lien LinkedIn ici]
+  [![Email](https://img.shields.io/badge/Email-salimboulkhir123@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salimboulkhir123@gmail.com)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-salim--boulkhir-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salim-boulkhir/)
