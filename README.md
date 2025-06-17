@@ -1,20 +1,64 @@
-👋 Hey, I'm Salim!<br/>  
-🎓 I'm a student at ENSA de El Jadida, studying **Ingénierie Informatique et Technologies Emergentes (2ITE)**. <br/> 
-💻 I'm a Full-Stack Developer passionate about building innovative and scalable web applications.<br/>
-🌍 Fluent in **Arabic, French, English, and Turkish**.  <br/>
+# 👋 Hello, I'm Salim Boulkhir
 
-📫 Let's connect! <br/> 
-🔗 [LinkedIn](https://www.linkedin.com/in/salim-boulkhir/)  <br/>
-📸 [Instagram](https://www.instagram.com/boulkhirsalim/)  <br/>
+🎓 Étudiant en ingénierie informatique à l'ENSA — passionné par le développement web et mobile.
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=devloperSalim&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=devloperSalim&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=devloperSalim&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+💻 Je développe des applications **full stack** avec **React, Redux Toolkit, Laravel** et **React Native**.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=devloperSalim&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 À propos de moi
+
+- 🌍 Je suis basé au Maroc
+- 🔧 Technologies :
+  - **Frontend** : HTML, CSS, JavaScript, React.js, Redux Toolkit, Tailwind CSS, Bootstrap
+  - **Backend** : PHP, Laravel, REST APIs
+  - **Bases de données** : MySQL, MongoDB, Oracle
+  - **Mobile** : React Native (actuellement en développement d’un chatbot avec backend Python)
+  - **Outils** : Git, GitHub, GitLab, Jira, UML, Canva, Word, Excel, PowerPoint
+- 🌱 En cours d’apprentissage : Python APIs et développement mobile avancé
+- 🎯 Objectif : Intégrer une équipe de développement dynamique en tant que développeur full stack ou mobile
+
+---
+
+## 🌐 Mes Projets
+
+### 🔥 [Vividora Parfums (e-commerce Laravel)](https://vividoraperfumes.com/)
+E-commerce de parfums haut de gamme, interface responsive, filtres produits, gestion du panier.
+
+### 👟 [Site sneakers (Laravel)](https://bisque-termite-498936.hostingersite.com/)
+Vente de baskets avec une interface utilisateur moderne.
+
+### 🎒 [Site sacs & mode (Laravel)](https://powderblue-emu-313528.hostingersite.com/)
+Boutique en ligne de sacs pour hommes et femmes.
+
+### 💬 Chatbox Mobile (en cours)
+Développement d’un chatbox mobile avec **React Native frontend** et **backend Python (FastAPI)**.
+
+---
+
+## 🏅 Certifications
+- 📜 Certificat en React — *Alison* (2024)
+- 📜 Certificat Avancé en Laravel — *Alison* (2024)
+
+---
+
+## 📊 GitHub Stats
+
+![Salim's GitHub stats](https://github-readme-stats.vercel.app/api?username=devloperSalim&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devloperSalim&layout=compact&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com?user=devloperSalim&theme=tokyonight)](https://git.io/streak-stats)
+
+---
+
+## 🌍 Langues
+- 🇲🇦 Arabe : Langue maternelle  
+- 🇹🇷 Turc : Très bon niveau  
+- 🇫🇷 Français : Bon niveau  
+- 🇺🇸 Anglais : Bon niveau
+
+---
+
+## 📫 Contact
+- ✉️ Email : [Ajoute ton email ici]
+- 🔗 LinkedIn : [Ajoute ton profil ici]
+
