@@ -57,8 +57,8 @@
 ## 💼 Projets Principaux
 
 - 🔥 [Vividora Parfums (Laravel e-commerce)](https://vividoraperfumes.com/)
-- 👟 [Sneakers Store](https://bisque-termite-498936.hostingersite.com/)
-- 🎒 [Sacs & Mode](https://powderblue-emu-313528.hostingersite.com/)
+- 👟 [ista managment](https://bisque-termite-498936.hostingersite.com/)
+- 🎒 [reto](https://powderblue-emu-313528.hostingersite.com/)
 - 💬 **Chatbox mobile (en cours)** : React Native + Python (FastAPI)
 
 ---
